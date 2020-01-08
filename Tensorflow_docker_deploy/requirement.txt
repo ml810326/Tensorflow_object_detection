@@ -1,0 +1,11 @@
+joblib
+Flask
+Numpy
+Pandas
+scikit-learn
+tensorflow
+opencv-python
+paho-mqtt
+python-etcd
+Pillow
+matplotlib
